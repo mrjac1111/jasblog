@@ -20,10 +20,10 @@
                     <a href="index.php">Home</a>
                 </li>
                 <li>
-                    <a href="addPost.php">Add Post</a>
+                    <a href="addPost.php">Post</a>
                 </li>
                 <li>
-                    <a href="contectUs.php">Contect Us</a>
+                    <a href="contectUs.php">Contect</a>
                 </li>
                 <li>
                     <a href="login.php">Log In </a>

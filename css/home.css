@@ -724,3 +724,96 @@ color: #1fa67a;
     height: 40px;
     float: left;
 }
+
+@media only screen and (max-width: 320px) {
+    .main-container{
+        width: 320px;
+    }
+    .content-right{
+        display: none;
+    }
+    .footer{
+        display: none;
+    }
+    .header{
+        width: 320px;
+    }
+    .logo{
+        width: 20%;
+        margin-right: 0;
+    }
+    .notifications{
+        display: none;
+    }
+    .menu ul{
+        padding: 0;
+    }
+    .menu >ul >li{
+        width: auto;
+        font-size: 12px;
+        float: left;
+        margin-left: 0;
+        font-weight: bold;
+        padding-left: 25px;
+
+    }
+    .content-left{
+        width: 320px;
+        padding-left: 0px;
+        padding-top: 20px;
+
+    }
+    .content-left>.post{
+        width: 320px;
+        border-radius: 0px;
+        float: none;
+        margin-bottom: 20px;
+        margin-top: 10px;
+
+
+    }
+
+    .content-left>.post>.post-left-content{
+        width: 320px;
+
+    }
+    .post-left-content>.user-img{
+        width: 50px;
+        height: 50px;
+        float: left;
+
+    }
+    .post-left-content>.user-img>img{
+        width: 40px;
+        margin: 5px;
+        float: left;
+    }
+    .post-left-content>.user-name{
+        width: 100px;
+        margin-left: 40px;
+        padding-left: 25px;
+        height: 45px;
+        float: left;
+        margin-top: 50px;
+        border-radius: 50px;
+    }
+    .post-left-content>.user-name>h3{
+        font-size: 15px;
+        float: left;
+        margin-top: 0;
+    }
+    .rating{
+        display: none;
+    }
+    .post-right-content{
+        width: 320px;
+        margin-left: 0px;
+        border-radius: 0px;
+        margin-top: 0px;
+        height: 600px;
+        text-align: justify;
+        margin-bottom: 0;
+
+    }
+}
+
