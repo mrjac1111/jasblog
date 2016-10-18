@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc20a6e-ef1c-47c3-be53-898a3a6a592d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/signUp.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/home.css" afterPath="$PROJECT_DIR$/css/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="Task2.iws" />
@@ -29,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13838">
-              <caret line="814" column="25" selection-start-line="814" selection-start-column="25" selection-end-line="814" selection-end-column="25" />
+            <state relative-caret-position="95">
+              <caret line="730" column="32" selection-start-line="730" selection-start-column="32" selection-end-line="730" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="1513">
+              <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -81,8 +78,8 @@
         <option value="$PROJECT_DIR$/signUp.php" />
         <option value="$PROJECT_DIR$/contectUs.php" />
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/css/home.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/home.css" />
       </list>
     </option>
   </component>
@@ -128,7 +125,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,6 +159,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,14 +227,16 @@
       <workItem from="1475813355388" duration="11334000" />
       <workItem from="1476336159349" duration="8347000" />
       <workItem from="1476683292960" duration="9882000" />
+      <workItem from="1476696348698" duration="553000" />
+      <workItem from="1476764726881" duration="5359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69309000" />
+    <option name="totallyTimeSpent" value="75221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2818448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -275,11 +274,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13838">
+          <caret line="814" column="25" selection-start-line="814" selection-start-column="25" selection-end-line="814" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/signUp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -287,7 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -302,21 +323,9 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/readMore.html" />
     <entry file="file://$PROJECT_DIR$/signUp.html" />
-    <entry file="file://$PROJECT_DIR$/css/signUp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signUp.css" />
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css" />
     <entry file="file://$PROJECT_DIR$/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -328,21 +337,9 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/readMore.html" />
     <entry file="file://$PROJECT_DIR$/signUp.html" />
-    <entry file="file://$PROJECT_DIR$/css/signUp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signUp.css" />
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css" />
     <entry file="file://$PROJECT_DIR$/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -353,21 +350,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/signUp.html" />
-    <entry file="file://$PROJECT_DIR$/css/signUp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signUp.css" />
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css" />
     <entry file="file://$PROJECT_DIR$/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -410,35 +395,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="70" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css" />
     <entry file="file://$PROJECT_DIR$/contectUs.html" />
     <entry file="file://$PROJECT_DIR$/signUp.html" />
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/signUp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="132" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signUp.css" />
     <entry file="file://$PROJECT_DIR$/contectUs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,24 +439,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/home.css">
+    <entry file="file://$PROJECT_DIR$/../blog1/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13838">
-          <caret line="814" column="25" selection-start-line="814" selection-start-column="25" selection-end-line="814" selection-end-column="25" />
+        <state relative-caret-position="-12114">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="1513">
+          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="730" column="32" selection-start-line="730" selection-start-column="32" selection-end-line="730" selection-end-column="32" />
           <folding />
         </state>
       </provider>

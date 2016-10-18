@@ -140,13 +140,13 @@ body{
     float: left;
     background-color: white;
     width: 620px;
-    height: 400px;
+    height: auto;
     margin: 50px;
     border-radius: 5px;
 }
 .content-right{
     padding-top: 150px;
-    height: 1500px;
+    height: auto;
     }
 .post-right-content > p{
     padding-top: 10px;
@@ -156,7 +156,7 @@ body{
     font-size: 18px;
     color:#a5a9ac;
 }
-.post-right-content>.read-more p{
+.post-right-content>.read-more>a> p{
     float: right;
     color: #FEC711;
     margin: 0px;
@@ -728,11 +728,9 @@ color: #1fa67a;
 @media only screen and (max-width: 320px) {
     .main-container{
         width: 320px;
+        background-color: white;
     }
     .content-right{
-        display: none;
-    }
-    .footer{
         display: none;
     }
     .header{
@@ -765,8 +763,9 @@ color: #1fa67a;
     }
     .content-left>.post{
         width: 320px;
+        height: 700px;
         border-radius: 0px;
-        float: none;
+        clear: both;
         margin-bottom: 20px;
         margin-top: 10px;
 
@@ -776,6 +775,9 @@ color: #1fa67a;
     .content-left>.post>.post-left-content{
         width: 320px;
 
+    }
+    .post-left-content{
+        clear: both;
     }
     .post-left-content>.user-img{
         width: 50px;
@@ -813,7 +815,11 @@ color: #1fa67a;
         height: 600px;
         text-align: justify;
         margin-bottom: 0;
-
+        clear: both;
     }
+    .footer{
+        margin-top: 40px;
+    }
+
 }
 
